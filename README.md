@@ -1,2 +1,2 @@
 # hello-world
-my first project :D
+Hello there. Nothing to see here, it's just my first project. testing 123
